@@ -8,6 +8,6 @@
 
 * First step: [Data Crawling](code/邱俊源-实验一.ipynb). 
 * Second step: [Data Cleaning & Preprocessing](code/邱俊源-实验二.ipynb). 
-* Third step: [Construct provincial intellectual property protection indicators & Empirical Analyses](code/邱俊源-实验三.ipynb)  
+* Third step: [Construct provincial intellectual property protection indicators & Empirical Analyses based on Indicators](code/邱俊源-实验三.ipynb)  
 * Fourth step: [Data Visualization & Empirical Analyses based on Companies](code/邱俊源-实验四.ipynb)
 
