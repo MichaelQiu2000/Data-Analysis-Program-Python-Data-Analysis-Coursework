@@ -1,6 +1,6 @@
 # Data-Analysis-Program-Python-Data-Analysis-Coursework
 
-### This project crawled the data from intellectual property official media (official website, Sina Weibo, and newspaper) to make empirical analysis.
+### This project crawls the data from intellectual property official media (official website, Sina Weibo, and newspaper) to make empirical analysis.
 
 [Here](邱俊源-python数据分析实验.docx) is the report.
 
